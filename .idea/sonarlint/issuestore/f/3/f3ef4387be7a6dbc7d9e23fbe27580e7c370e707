@@ -1,0 +1,18 @@
+
+Gpython:S1066>"/Merge this if statement with the enclosing one.(À”¬
+Ipython:S1172¿"+Remove the unused function parameter "cls".(ÕÒôŸûÿÿÿÿ
+Hpython:S1481ˆ"0Replace unused local variable "column" with "_".(Ş†
+Spython:S1172£"5Remove the unused function parameter "related_alias".(Á‘ôùÿÿÿÿ
+Kpython:S1172£"-Remove the unused function parameter "alias".(Á‘ôùÿÿÿÿ
+Lpython:S1172ù".Remove the unused function parameter "kwargs".(¹ÓÌ«ÿÿÿÿÿ
+Lpython:S1172ğ
+".Remove the unused function parameter "kwargs".(¹ÓÌ«ÿÿÿÿÿ
+Lpython:S1172û
+".Remove the unused function parameter "kwargs".(ñÅüœúÿÿÿÿ
+Lpython:S1172£".Remove the unused function parameter "kwargs".(è¶Öÿÿÿÿÿ
+rpython:S3776£"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(è¶Öÿÿÿÿÿ
+Lpython:S1172‰".Remove the unused function parameter "kwargs".(öìÄŞúÿÿÿÿ
+rpython:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(öìÄŞúÿÿÿÿ
+mpython:S3776½"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ñÕı›
+mpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ƒ¾ÖÑ
+wpython:S1186 "YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ñ¹Áäıÿÿÿÿ
